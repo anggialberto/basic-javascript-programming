@@ -1,4 +1,4 @@
-// Tulisakan Contoh input disini!
+// Tulisakan contoh input disini!
 
 if (peran === 'Ksatria') {
   var tugas = "kamu dapat menyerang dengan senjatamu!";
