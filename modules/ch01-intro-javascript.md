@@ -32,3 +32,5 @@ Sintaks menurut KBBI merupakan cabang linguistik **tentang susunan kalimat dan b
 > alert("Halo, manusia!");
 > prompt("Siapa nama kamu?");
 ```
+
+Bukalah [Repl](repl.it/languages/javascript), dan cobalah kode di atas pada tab **console**
