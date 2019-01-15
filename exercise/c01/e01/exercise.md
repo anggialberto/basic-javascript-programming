@@ -22,6 +22,7 @@ Dan juga terdapat beberapa nama variabel yang boleh kamu buat antara lain:
 - string2
 - boolean1
 - boolean2
+
 Tugas kamu adalah melakukan *assignment* pada variabel-variabel yang tersedia dengan data yang ada dan menuliskannya menggunakan `console.log()`.
 
 ### Hints
