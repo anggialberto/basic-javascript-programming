@@ -18,3 +18,5 @@ Bahasa Pemrograman Javascript merupakan salah satu bahasa yang unik kenapa saya 
 Kamu juga bisa gunakan extension browser untuk editor JavaScript yang lebih dari sekadar console di dev tools seperti [Chrome Scratch JS](https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn), [https://repl.it/languages/javascript](repl.it/languages/javascript), ataupun [CodePen](https://codepen.io). Apapun tools yang dipakai, yang terpenting adalah kita dapat mengakses editor atau console yang akan menjalankan sintaks JavaScript.
 
 Untuk saat ini, mari kita gunakan [Repl.it](https://repl.it/languages/javascript).
+
+### Sintaks (Syntax) dan Pernyataan (Statement)
