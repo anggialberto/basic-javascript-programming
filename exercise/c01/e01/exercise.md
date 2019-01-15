@@ -42,3 +42,6 @@ Tugas kamu adalah melakukan *assignment* pada variabel-variabel yang tersedia de
 true
 false
 ```
+
+### Answer
+Untuk mendapatkan jawabannya [klik disini!](answer.js)
