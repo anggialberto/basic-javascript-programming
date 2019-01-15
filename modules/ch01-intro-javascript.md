@@ -20,7 +20,7 @@ Kamu juga bisa gunakan extension browser untuk editor JavaScript yang lebih dari
 Untuk saat ini, mari kita gunakan [Repl.it](https://repl.it/languages/javascript).
 
 ### Sintaks (Syntax) dan Pernyataan (Statement)
-Sintaks menurut KBBI merupakan cabang linguistik **tentang susunan kalimat dan bagiannya**; ilmu tata kalimat. Lalu Pernyataan merupakan sebuah perintah yang dibuat oleh programmer melalui baris-baris kode yang nantinya djalankan oleh intepreter JavaScript untuk melalukan sesuai kehendak programmer terhadap komputer. Lalu hubungan antara Syntax dan Statement saling terkait dalam membuat baris kode program. Pada Bahasa Pemrograman JavaScript terdapat beberapa statement seperti `console.log();`, `document.write();`, `alert();` dan masik banyak lagi. Bila kita melihat statement tersebut terdapat semicolon(;) pada setiap akhir statement, itulah yang dimanakan Syntax sebuah tata bahasa pada javascript bilamana jika tidak kita taati maka baris kode program tersebut tidak dapat berjalan (error).
+Sintaks menurut KBBI merupakan cabang linguistik **tentang susunan kalimat dan bagiannya**; ilmu tata kalimat. Lalu Pernyataan merupakan sebuah perintah yang dibuat oleh programmer melalui baris-baris kode yang nantinya djalankan oleh intepreter JavaScript untuk melalukan sesuai kehendak programmer terhadap komputer. Lalu hubungan antara Syntax dan Statement saling terkait dalam membuat baris kode program. Pada Bahasa Pemrograman JavaScript terdapat beberapa statement seperti `console.log();`, `document.write();`, `alert();` dan masik banyak lagi. Bila kita melihat statement tersebut terdapat titik koma (semicolon `;`) pada setiap akhir statement, itulah yang dimanakan Syntax sebuah tata bahasa pada javascript bilamana jika tidak kita taati maka baris kode program tersebut tidak dapat berjalan (error).
 
 
 #### Menjalankan JavaScript dengan script JavaScript dan menampilkannya pada console
@@ -34,3 +34,11 @@ Sintaks menurut KBBI merupakan cabang linguistik **tentang susunan kalimat dan b
 ```
 
 Bukalah [Repl](repl.it/languages/javascript), dan cobalah kode di atas pada tab **console**
+
+### Data Type
+
+Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
+
+- Number: tipe data dengan nilai berupa angka (`1`, `2.5`)
+- String: tipe data dengan nilai berupa kumpulan atau set dari beberapa karakter (`'Saya'`, `"Aku"`)
+- Boolean: tipe data dengan nilai berupa `true` atau `false`.
