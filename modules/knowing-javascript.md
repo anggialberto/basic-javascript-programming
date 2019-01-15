@@ -8,4 +8,4 @@ Bahasa pemrograman Client Side berbeda dengan bahasa pemrograman Server Side sep
 
 Untuk menjalankan JavaScript, kita hanya membutuhkan aplikasi text editor dan web browser. JavaScript memiliki fitur: high-level programming language, client-side, loosely tiped dan berorientasi objek. (source: http://duniailkom.com)
 
-![Let's start!](../assets/lets-start.gif)
+![Let's start!](../assets/lets-start.png)
