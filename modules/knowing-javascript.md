@@ -35,4 +35,4 @@ Tugas :
 - :anchor:
 [[**Exercises 3**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](./excersice/excercise-switch-case-usage.md)
 - :anchor:
-[[**Exercises 4**] Mengenal penggunaan Loops (While) dalam JavaScript](./excersice/excercise-while-usage.md)
+[[**Exercises 4**] Mengenal penggunaan Loops (While & For) dalam JavaScript](./excersice/excercise-while-for-usage.md)
