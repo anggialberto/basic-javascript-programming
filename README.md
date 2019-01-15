@@ -5,7 +5,7 @@ Repositori ini saya gunakan saat mempelajari Dasar Bahasa Pemrograman Javascript
 
 ## What's Inside
 **Chapter 1: Memahami dan Menggunakan Dasar Pemrograman dengan Javascript**
-- :anchor: [[**Exercises 1**] Mengenal Penggunaan Variabel dan Javascript](exercise/c01/e01/exercise.md)
+- :anchor: [[**Exercises 1**] Mengenal Penggunaan Variabel](exercise/c01/e01/exercise.md)
 - :anchor: [[**Exercises 2**] Mengenal penggunaan conditional if-else](exercise/c01/e02/exercise.md)
 - :anchor: [[**Exercises 3**] Mengenal penggunaan Conditional Switch Case](exercise/c01/e03/exercise.md)
 - :anchor: [[**Exercises 4**] Melakukan Perulangan Menggunakan while](exercise/c01/e04/exercise.md)
