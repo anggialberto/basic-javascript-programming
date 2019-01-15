@@ -13,4 +13,8 @@ Pada dasarnya, setiap bahasa pemrograman memiliki struktur programnya masing-mas
 
 ## Menjalankan Script JavaScript
 
-Bahasa Pemrograman Javascript merupakan salah satu bahasa yang unik
+Bahasa Pemrograman Javascript merupakan salah satu bahasa yang unik kenapa saya katakan seperti itu? Ya, untuk menjalankan sesuatu baris kode JavaScript kita hanya memerlukan perangkat lunak yang sedang kita gunakan untuk membuat website github ini yaitu Browser baik itu Firefox, Chrome dsb. Untuk menjalankan baris kode JavaScript kita bisa buka browser terlebih dahulu, saat browser sudah terbuka kita bisa menekan tombol kombinasi `CTRL+SHIFT+J` atau `F12` lalu jika berhasil akan nampak console.
+
+Kamu juga bisa gunakan extension browser untuk editor JavaScript yang lebih dari sekadar console di dev tools seperti [Chrome Scratch JS](https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn), [https://repl.it/languages/javascript](repl.it/languages/javascript), ataupun [CodePen](https://codepen.io). Apapun tools yang dipakai, yang terpenting adalah kita dapat mengakses editor atau console yang akan menjalankan sintaks JavaScript.
+
+Untuk saat ini, mari kita gunakan [Repl.it](https://repl.it/languages/javascript).
