@@ -11,8 +11,8 @@ Masih ingat dengan Proxytia? game yang pernah kamu buat pada tugas sebelumnya. P
 
 1. Tambahkan variabel `yearOfBirth`, variabel ini akan diisi dengan tahun lahir pemain.
 2. Isi variabel `age` sekarang adalah `2017 - yearOfBirth`.
-3. Tambahkan variabel `playerHealth`, *assign* variabel ini dengan `yearOfBirth X Math.random()`
-4. Tambahkan variabel `monsterHealth`, *assign* variabel ini dengan `yearOfBirth X Math.random()`
+3. Tambahkan variabel `playerHealth`, *assign* variabel ini dengan `yearOfBirth * Math.random()`
+4. Tambahkan variabel `monsterHealth`, *assign* variabel ini dengan `yearOfBirth * Math.random()`
 5. Tambahkan variabel `kodeMonster`, *assign* variabel ini dengan `Math.floor(Math.pow(100, Math.random()))`
 6. Pada logika `if` terhadap variabel `nama`, apabila pemain tidak mengisi variabel, *assign* variabel `peran` dengan **kacung**
 7. Setelah semua pengecekan menggunakan `if` selesai dilakukan, lakukan perulangan sebanyak `tahunLahir`.
