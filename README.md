@@ -57,4 +57,4 @@ Repositori ini saya gunakan saat mempelajari Dasar Bahasa Pemrograman Javascript
 - :anchor: [[**Exercises 1**] Hapus Simbol (Regex)](exercise/c04/e01/exercise.md)
 - :anchor: [[**Exercises 2**] Cari Pelaku (Regex) (Rekursif)](exercise/c04/e02/exercise.md)
 
-#### :open_book: Chapter 5: Mengenal Ecma Sript 6 (ES6)
+#### :open_book: Chapter 5: Mengenal EcmaSript 6 (ES6)
