@@ -15,7 +15,7 @@ Masih ingat dengan Proxytia? game yang pernah kamu buat pada tugas sebelumnya. P
 4. Tambahkan variabel `monsterHealth`, *assign* variabel ini dengan `yearOfBirth * Math.random()`
 5. Tambahkan variabel `monsterCode`, *assign* variabel ini dengan `Math.floor(Math.pow(100, Math.random()))`
 6. Pada logika `if` terhadap variabel `name`, apabila pemain tidak mengisi variabel, *assign* variabel `actor` dengan **kacung**
-7. Setelah semua pengecekan menggunakan `if` selesai dilakukan, lakukan perulangan sebanyak `tahunLahir`.
+7. Setelah semua pengecekan menggunakan `if` selesai dilakukan, lakukan perulangan sebanyak `yearOfBirth`.
 8. Di dalam perulangan tersebut, buat sebuah logika `if-else` untuk melakukan pengecekan sebagai berikut:
   - jika indeks perulangan adalah kelipatan `umur`:
     - `console.log(actor + ' ' + name + ' menyerang monster!')`
