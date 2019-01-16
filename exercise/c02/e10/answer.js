@@ -6,7 +6,6 @@ function angkaPalindrome(num) {
       let string = '';
       for(let j = len - 1; j >= 0; j--){
         string += numString[j];
-       
       }
       if(numString === string){
         return num
