@@ -29,7 +29,7 @@ Repositori ini saya gunakan saat mempelajari Dasar Bahasa Pemrograman Javascript
 - :anchor: [[**Exercises 6**] Palindrome](exercise/c01/e06/exercise.md)
 - :anchor: [[**Exercises 7**] Menghitung Jumlah Kata](exercise/c02/e07/exercise.md)
 - :anchor: [[**Exercises 8**] Perkalian Unik](exercise/c02/e08/exercise.md)
-- :anchor: [[**Exercises 9**] Pasangan Angka Terbesar (Mengakses Nilai dalam Array)](exercise/c02/e09/exercise.md)
+- :anchor: [[**Exercises 9**] Pasangan Angka Terbesar](exercise/c02/e09/exercise.md)
 - :anchor: [[**Exercises 10**] Number Palindrome](exercise/c02/e10/exercise.md)
 - :anchor: [[**Exercises 11**] Tentukan Deret Aritmatika](exercise/c02/e11/exercise.md)
 - :anchor: [[**Exercises 12**] Tentukan Deret Geometri](exercise/c02/e12/exercise.md)
