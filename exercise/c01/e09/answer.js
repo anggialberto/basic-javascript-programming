@@ -1,10 +1,10 @@
-function balikString(kata){
-  res = ''
-  for(var i = kata.length-1; i >= 0; i--){
-    res += kata[i];
+function reverseWord(word){
+  newWord = ''
+  for(var i = word.length-1; i >= 0; i--){
+    newWord += word[i];
   }
-  return res;
+  return newWord;
 }
 
 var input = "hello world!";
-console.log(balikString(input));
+console.log(reverseWord(input));
