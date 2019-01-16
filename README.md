@@ -16,6 +16,6 @@ Repositori ini saya gunakan saat mempelajari Dasar Bahasa Pemrograman Javascript
 - :anchor: [[**Exercises 8**] Menggabungkan Konsep Perulangan dan Kondisional](exercise/c01/e08/exercise.md)
 - :anchor: [[**Exercises 9**] Tantangan Array 1 (Mengakses Nilai dalam Array)](exercise/c01/e09/exercise.md)
 - :anchor: [[**Exercises 10**] Tantangan Array 2 (Melooping menggunakan Array)](exercise/c01/e10/exercise.md)
-- :anchor: [[**Exercises 11**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](exercise/c01/e11/exercise.md)
+- :anchor: [[**Exercises 11**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](https://www.codecademy.com/learn/learn-javascript)
 - :anchor: [[**Exercises 12**] Menyelesaikan Codecademy Javascript Course (Hanya sampai Unit 4 - Arrays and Loops)](exercise/c01/e11/exercise.md)
 - :anchor: [[**Exercises 13**] Create Your Own JavaScript App](exercise/c01/e13/exercise.md)
