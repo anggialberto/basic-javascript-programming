@@ -45,3 +45,6 @@ dataHandling2(input);
  * Roman Alamsyah
  */
 ```                                  
+
+### Answer
+Untuk mendapatkan jawabannya [klik disini!](answer.js)
