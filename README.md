@@ -1,4 +1,5 @@
 # Basic JavaScript Programming
+![Header](./assets/knowing-javascript.png)
 
 ## Overview
 Repositori ini saya gunakan saat mempelajari Dasar Bahasa Pemrograman Javascript dengan cara menyelesaikan beberapa tugas berikut.
