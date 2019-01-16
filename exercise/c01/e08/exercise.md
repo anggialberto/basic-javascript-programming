@@ -19,7 +19,7 @@ Masih ingat dengan Proxytia? game yang pernah kamu buat pada tugas sebelumnya. P
 8. Di dalam perulangan tersebut, buat sebuah logika `if-else` untuk melakukan pengecekan sebagai berikut:
   - jika indeks perulangan adalah kelipatan `umur`:
     - `console.log(actor + ' ' + name + ' menyerang monster!')`
-    - Kurangi `monsterHealth` dengan `umur`
+    - Kurangi `monsterHealth` dengan `age`
   - jika indeks perulangan adalah kelipatan `monsterCode`:
     - `console.log('monster menyerang ' + actor + ' ' + name + '!')`
     - Kurangi `playerHealth` dengan `monsterCode`
