@@ -23,8 +23,6 @@ while(i <= yearOfBirth) {
     console.log('Health keduanya bertambah');
     playerHealth += monsterCode;
     monsterHealth += age;    
-  } else{
-    continue; 
   }
   i++;
 }
