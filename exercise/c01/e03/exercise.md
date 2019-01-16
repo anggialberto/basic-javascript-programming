@@ -16,7 +16,7 @@ var hari = 21; var bulan = 1; var tahun = 1945;
 
 Maka hasil yang akan tampil di console adalah: '21 Januari 1945';
 
-## Skeleton Code / Code yang dicontohkan yang perlu diikuti dan dimodifikasi
+### Skeleton Code / Code yang dicontohkan yang perlu diikuti dan dimodifikasi
 
 ```javascript
 var tanggal; // assign nilai variabel tanggal disini! (dengan angka antara 1 - 31)
