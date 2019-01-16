@@ -1,14 +1,14 @@
 # Angka Ganjil dan Genap
 
 ## Objectives
-- Mengaplikasikan Syntax for
-- Mengaplikasikan Syntax if-else
+- Mengaplikasikan Syntax `for`
+- Mengaplikasikan Syntax `if-else`
 
 ## Directions
 Buatlah sebuah perulangan 1 - 100 dengan pertambahan counter sebanyak 1
 Di dalam perulangan, periksa setiap angka counter:
-Apabila angka counter adalah angka genap, tuliskan GENAP
-Apabila angka counter adalah angka ganjil, tuliskan GANJIL
+Apabila angka counter adalah angka genap, tuliskan *GENAP*
+Apabila angka counter adalah angka ganjil, tuliskan *GANJIL*
 Buatlah 3 perulangan baru dari 1 - 100, dengan pertambahan counter sebesar 2, 5, dan 9.
 Pada 3 perulangan baru ini periksa setiap angka counter:
 Apabila bukan kelipatan yang ditentukan tidak perlu menuliskan apa-apa
