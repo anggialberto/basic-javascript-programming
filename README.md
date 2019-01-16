@@ -47,3 +47,14 @@ Repositori ini saya gunakan saat mempelajari Dasar Bahasa Pemrograman Javascript
 - :anchor: [[**Exercises 24**] Ubah Kapital](exercise/c02/e24/exercise.md)
 - :anchor: [[**Exercises 25**] Ubah Huruf](exercise/c02/e25/exercise.md)
 - :anchor: [[**Exercises 26**] Hitung Huruf](exercise/c02/e26/exercise.md)
+
+#### :open_book: Chapter 3: Mengenal Rekursif
+- :anchor: [[**Exercises 1**] Faktorial (Rekursif)](exercise/c03/e01/exercise.md)
+- :anchor: [[**Exercises 2**] Total Digit (Rekursif)](exercise/c03/e02/exercise.md)
+- :anchor: [[**Exercises 3**] Kali Terus (Rekursif)](exercise/c03/e03/exercise.md)
+
+#### :open_book: Chapter 4: Mengenal Regular Expression
+- :anchor: [[**Exercises 1**] Hapus Simbol (Regex)](exercise/c04/e01/exercise.md)
+- :anchor: [[**Exercises 2**] Cari Pelaku (Regex) (Rekursif)](exercise/c04/e02/exercise.md)
+
+#### :open_book: Chapter 5: Mengenal Ecma Sript 6 (ES6)
