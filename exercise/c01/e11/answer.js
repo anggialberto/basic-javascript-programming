@@ -49,7 +49,8 @@ function dataHandling2(bioArr){
       monthName = 'Desember';
       break;
     default:
-      monthName = "Tidak ada bulan yang lebih dari 12");
+      monthName = "Tidak ada bulan yang lebih dari 12";
+      break;
   };
   
   console.log(newBioArr);
