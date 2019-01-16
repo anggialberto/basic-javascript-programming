@@ -5,7 +5,7 @@
 - Mengerti Cara Mengakses Nilai Dalam Array
 
 ## Directions
-Buatlah sebuah fungsi dengan nama **balikString**. Fungsi ini akan menerima argumen sebuah string dan mengembalikan kebalikannya.
+Buatlah sebuah fungsi dengan nama **reverseWord**. Fungsi ini akan menerima argumen sebuah string dan mengembalikan kebalikannya.
 
 
 ### Example
