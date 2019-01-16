@@ -23,7 +23,7 @@ Masih ingat dengan Proxytia? game yang pernah kamu buat pada tugas sebelumnya. P
   - jika indeks perulangan adalah kelipatan `monsterCode`:
     - `console.log('monster menyerang ' + actor + ' ' + name + '!')`
     - Kurangi `playerHealth` dengan `monsterCode`
-  - jika indeks perulangan adalah kelipatan umur dan `kodeMonster` sekaligus:
+  - jika indeks perulangan adalah kelipatan `age` dan `monsterCode` sekaligus:
     - `console.log('Health keduanya bertambah')`
     - Tambahkan `playerHealth` dengan `monsterCode`
     - Tambahkan `monsterHealth` dengan `age`
