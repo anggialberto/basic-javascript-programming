@@ -1,5 +1,5 @@
-function calculateMultiply(num1, num2) {
-  return num1 * num2;
+function calculateMultiply(num1_param, num2_param) {
+  return num1_param * num2_param;
 }
 
 var num1 = 5;
