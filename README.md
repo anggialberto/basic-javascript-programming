@@ -39,7 +39,7 @@ Repositori ini saya gunakan saat mempelajari Dasar Bahasa Pemrograman Javascript
 - :anchor: [[**Exercises 16**] Mencari Mean](exercise/c02/e16/exercise.md)
 - :anchor: [[**Exercises 17**] Mencari Median](exercise/c02/e17/exercise.md)
 - :anchor: [[**Exercises 18**] Mencari Modus](exercise/c02/e18/exercise.md)
-- :anchor: [[**Exercises 19**] Digit Perkalian Minimum](exercise/c01/e19/exercise.md)
+- :anchor: [[**Exercises 19**] Digit Perkalian Minimum](exercise/c02/e19/exercise.md)
 - :anchor: [[**Exercises 20**] Mengurutkan Abjad](exercise/c02/e20/exercise.md)
 - :anchor: [[**Exercises 21**] Tukar Besar Kecil](exercise/c02/e21/exercise.md)
 - :anchor: [[**Exercises 22**] Check AB](exercise/c02/e22/exercise.md)
