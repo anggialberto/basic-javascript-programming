@@ -11,7 +11,6 @@ function cariModus(arr) {
       }
     }
   }
-
   return (arrModus[0] === undefined || isSame) ? -1 : arrModus[0];
 }
 
