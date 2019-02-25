@@ -1,10 +1,10 @@
 function angkaPrima(angka) {
   if ( angka > 1 ) {
-  	for ( let i = 2; i < angka; i++) {
-  		if ( angka % i == 0) {
-  			return false;
-  		} 
-  	}
+    for ( let i = 2; i < angka; i++) {
+      if ( angka % i == 0) {
+  		   return false;
+      } 
+    }
   	return true;	
   }
   return false;
