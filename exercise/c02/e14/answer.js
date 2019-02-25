@@ -5,7 +5,7 @@ function angkaPrima(angka) {
         return false;
       } 
     }
-  	return true;	
+    return true;	
   }
   return false;
 }
