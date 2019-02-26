@@ -7,7 +7,7 @@
 - Ubah kasus dibawah ini ke dalam bentuk ES6 Class.
 
 
-## Tugas
+### Tugas
 Buatlah sebuah Class Student, yang memiliki atribut berikut::
 - Name,
 - Age of Birth,
