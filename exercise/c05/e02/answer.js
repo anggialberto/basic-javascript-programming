@@ -21,7 +21,7 @@ class Student {
   }
 
   setGender(newGender) {
-    this.gender = gender;
+    this.gender = newGender;
   }
 
   addHobby(newHobby) {
@@ -47,7 +47,7 @@ class Student {
 
 }
 
-let anggi = new Student("Anggi Alberto", 20, "15 Mei 1998", "Male", "50416855", "Ski", "Games");
+const anggi = new Student("Anggi Alberto", 20, "15 Mei 1998", "Male", "50416855", "Ski", "Games");
 anggi.getData();
 anggi.addHobby("Programming");
 anggi.removeHobby("Games");
