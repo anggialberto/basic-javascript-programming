@@ -1,4 +1,4 @@
-# Membuat Class ES6 Lanjutan 
+# Membuat ES6 Class Sederhana
 
 ## Objectives
 - Mampu memanfaatkan Class pada ES6 untuk membangun object JavaScript
