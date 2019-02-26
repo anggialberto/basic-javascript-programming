@@ -49,4 +49,4 @@ console.log(divide(10, 2));
 ```
 
 ### Answer
-Untuk mendapatkan jawabannya [klik disini!](answer.js)
+Untuk mendapatkan jawabannya [tugas 1](answer.js) dan [tugas 2](answer2.js)
