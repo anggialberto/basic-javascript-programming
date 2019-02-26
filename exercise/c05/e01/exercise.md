@@ -1,4 +1,10 @@
-# Logic Challenge - Membuat Class ES6 Sederhana
+# Membuat Class ES6 Lanjutan
+
+## Objectives
+- Mampu memanfaatkan Class pada ES6 untuk membangun object JavaScript
+
+## Directions
+- Ubah kasus dibawah ini ke dalam bentuk ES6 Class.
 
 ## Tugas
 Buatlah sebuah Class Mobil, yang memiliki atribut berikut:
