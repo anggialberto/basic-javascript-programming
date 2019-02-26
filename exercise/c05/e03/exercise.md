@@ -1,4 +1,4 @@
-# Membuat Class ES6 Lanjutan
+# Menggunakan Object Literal
 
 ## Objectives
 - Mengerti Cara Membuat Object dengan Object literal
