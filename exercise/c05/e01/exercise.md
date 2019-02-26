@@ -6,7 +6,7 @@
 ## Directions
 - Ubah kasus dibawah ini ke dalam bentuk ES6 Class.
 
-## Tugas
+### Tugas
 Buatlah sebuah Class Mobil, yang memiliki atribut berikut:
 - Merek,
 - Harga,
