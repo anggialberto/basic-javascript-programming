@@ -58,3 +58,8 @@ Repositori ini saya gunakan saat mempelajari Dasar Bahasa Pemrograman Javascript
 - :anchor: [[**Exercises 2**] Cari Pelaku (Regex) (Rekursif)](exercise/c04/e02/exercise.md)
 
 #### :open_book: Chapter 5: Mengenal EcmaSript 6 (ES6)
+- :anchor: [[**Exercises 1**] Membuat ES6 Class Sederhana](exercise/c05/e01/exercise.md)
+- :anchor: [[**Exercises 2**] Membuat Class ES6 Lanjutan](exercise/c05/e02/exercise.md)
+- :anchor: [[**Exercises 3**] Menggunakan Object Literal](exercise/c05/e03/exercise.md)
+- :anchor: [[**Exercises 4**] Mengubah ES5 menjadi ES6](exercise/c05/e04/exercise.md)
+- :anchor: [[**Exercises 5**] Memanfaatkan Map, Filter, dan Reduce](exercise/c05/e05/exercise.md)
