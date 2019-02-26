@@ -44,6 +44,7 @@ const Student = {
         Age : ${this.age} years old
         Hobbies : ${this.hobbies}`
     )
+    return this;
   }
 
 }
