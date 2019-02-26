@@ -8,7 +8,7 @@
 - Ubah semua kode JavaScript dibawah ini ke dalam ES5. (setiap kode satu file JavaScript)
 
 
-## Tugas 1
+### Tugas 1
 Ubahlah seluruh `var` pada kode JavaScript dibawah ini menjadi `let` atau `const`!
 
 ```javascript
@@ -28,7 +28,7 @@ var area7 = calculateArea(radius);
 console.log('area with 21 radius: ' + area21 + ', and area with 7 radius: ' + area7);
 ```
 
-## Tugas 2
+### Tugas 2
 Ubahlah anonymous functions dibawah ini menjadi ES6 Arrow Function!
 
 ```javascript
