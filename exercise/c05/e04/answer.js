@@ -1,7 +1,7 @@
 const phi = 3.14;
 const power = 2;
 let radius = 0;
-var calculateArea = function (radius) {
+const calculateArea = function (radius) {
   return phi * Math.pow(radius, power);
 }
 
