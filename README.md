@@ -26,7 +26,7 @@ Repositori ini saya gunakan saat mempelajari Dasar Bahasa Pemrograman Javascript
 - :anchor: [[**Exercises 3**] Konversi Menit](exercise/c02/e03/exercise.md)
 - :anchor: [[**Exercises 4**] Perpangkatan Dua](exercise/c02/e04/exercise.md)
 - :anchor: [[**Exercises 5**] X dan O](exercise/c02/e05/exercise.md)
-- :anchor: [[**Exercises 6**] Palindrome](exercise/c01/e06/exercise.md)
+- :anchor: [[**Exercises 6**] Palindrome](exercise/c02/e06/exercise.md)
 - :anchor: [[**Exercises 7**] Menghitung Jumlah Kata](exercise/c02/e07/exercise.md)
 - :anchor: [[**Exercises 8**] Perkalian Unik](exercise/c02/e08/exercise.md)
 - :anchor: [[**Exercises 9**] Pasangan Angka Terbesar](exercise/c02/e09/exercise.md)
