@@ -1,7 +1,5 @@
 function palindrome(kata) {
-  let wordLength = kata.length;
-  let result = kata[0] === kata[wordLength-1] ? true : false;
-  return result;
+  //   logic here
 }
 
 // TEST CASES
